@@ -1,0 +1,6 @@
+
+Sequences of length two that occur in the same purchase are in 2_tog.txt
+Sequences of length two that occur across purchases are in 2_sin.txt
+
+Sequences of length three that occur in the same purchase are in 3_tog.txt
+Sequences of length three that occur across purchases are in 3_sin.txt
